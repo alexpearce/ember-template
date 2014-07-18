@@ -1,0 +1,2 @@
+EmberTemplate.Router.map(function() {
+});
