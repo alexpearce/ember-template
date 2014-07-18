@@ -8,7 +8,7 @@ For an example of an application built using this template, see [Finances](https
 
 ## Getting started
 
-First, you'll want to make sure you already have everything listed in the [Dependencies](#Dependencies) section.
+First, you'll want to make sure you already have everything listed in the [Dependencies](#dependencies) section.
 Once that's done, you just need to clone this repository and install some [Grunt](http://gruntjs.com/) and [Bower](http://bower.io/) packages.
 
 ```bash

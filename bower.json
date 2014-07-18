@@ -8,6 +8,6 @@
     "moment": "2.7.0"
   },
   "devDependencies": {
-    "ember-mocha-adapter": "0.1.2",
+    "ember-mocha-adapter": "0.1.2"
   }
 }
