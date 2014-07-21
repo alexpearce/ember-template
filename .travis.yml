@@ -7,5 +7,5 @@ before_install:
 install:
   - npm install
   - bower install
-  - cd test && bower_install
+  - cd tests && bower_install
 before_script: grunt build
