@@ -2,11 +2,11 @@ language: node_js
 node_js:
   - "0.10"
 before_install: 
-  - npm install -g grunt-cli bower
-  - gem install compass
+  - npm install --quiet -g grunt-cli bower
+  - gem install --quiet compass
 install:
-  - npm install
-  - bower install
-  - cd tests && bower install
+  - npm install --quiet
+  - bower install --quiet
+  - cd tests && bower install --quiet
 before_script: grunt build
 script: grunt test
