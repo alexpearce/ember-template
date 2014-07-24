@@ -9,3 +9,4 @@ install:
   - bower install
   - cd tests && bower install
 before_script: grunt build
+script: grunt test
